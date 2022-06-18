@@ -1,3 +1,4 @@
+[日本語](./README.ja.md)
 # CodePeice-doc
 documentation of https://codepiece.pages.dev/
 
