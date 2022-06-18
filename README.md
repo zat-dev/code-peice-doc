@@ -13,3 +13,6 @@ code peice is a python playgrpund powered by WASM(Pyodide).
 * A: Packages requires
   * wheel on PyPI
   * or registerd at [Pyodide packages](https://github.com/pyodide/pyodide/tree/main/packages) (especially using C package). 
+
+* Q: how to report bug
+* A: issue this repo
