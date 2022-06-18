@@ -1,7 +1,7 @@
-# code-peice-doc
+# CodePeice-doc
 documentation of https://codepiece.pages.dev/
 
-# what is code-peice
+# what is CodePeice
 
 code peice is a python playgrpund powered by WASM(Pyodide).
 * no account needed
